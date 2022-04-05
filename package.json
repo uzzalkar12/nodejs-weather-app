@@ -1,0 +1,19 @@
+{
+  "name": "weather-app",
+  "version": "1.0.0",
+  "description": "Weather Application",
+  "main": "app.js",
+  "dependencies": {
+    "axios": "^0.26.1",
+    "express": "^4.17.3",
+    "hbs": "^4.2.0",
+    "request": "^2.88.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Uzzal Kar",
+  "license": "ISC"
+}
